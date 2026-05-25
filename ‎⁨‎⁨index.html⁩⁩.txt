@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LAND ARAB</title>
+<style>
+body{
+background:black;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+font-size:40px;
+font-family:Arial;
+}
+</style>
+</head>
+
+<body>
+
+LAND ARAB 🔥
+
+</body>
+</html>
